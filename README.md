@@ -1,5 +1,5 @@
 # MegaUp Anti AdBlock Bypass
-Bypass MegaUp's Anti AdBlock
+Bypass MegaUp's Anti AdBlock And Wait Timer
 
 ## Link
 You Can Add This Script By Yourself Using This Button - [Subscribe](https://gist.githubusercontent.com/Exhigh/a454e2cd6cc055a6e2a9f7c7428cdd16/raw/MegaUp-Anti-AdBlock-Bypass.user.js)
