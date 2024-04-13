@@ -6,7 +6,7 @@ You Can Add This Script By Yourself Using This Button - [Subscribe](https://gist
 
 Userscript Gist Page: https://gist.github.com/Exhigh/a454e2cd6cc055a6e2a9f7c7428cdd16
 
-Version: 2.1
+Version: 2.2
 
 ## Requirements
 Greasemonkey / Tampermonkey
